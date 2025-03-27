@@ -36,7 +36,7 @@ mov di, dx
 mov si, bx
     
 ret 
-arr db 3, 5, 6, 9, 11, 1, 2, 14, 12, 7   ; arr[0] 0012Dh ile basladi
+arr db 3, 5, 6, 9, 11, 1, 2, 14, 12, 7   
 
 
 
