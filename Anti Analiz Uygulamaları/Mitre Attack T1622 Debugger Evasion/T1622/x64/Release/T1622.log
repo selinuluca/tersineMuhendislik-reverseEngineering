@@ -1,0 +1,8 @@
+﻿  T1622.cpp
+  Generating code
+  2 of 12 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+C:\Users\iseli\Desktop\T1622\T1622\T1622.cpp(48): warning C4715: 'DebuggerDetector::DetectDebugger': not all control paths return a value
+  Finished generating code
+  T1622.vcxproj -> C:\Users\iseli\Desktop\T1622\x64\Release\T1622.exe
