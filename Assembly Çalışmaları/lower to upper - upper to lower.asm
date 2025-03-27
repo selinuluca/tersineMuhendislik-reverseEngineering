@@ -12,7 +12,7 @@ label1:
     je label4  ;kare ise sonlanacak
     
     cmp al, 097   ;a
-    jb label2  ;buyuk harfler icin label3, kucukler icin devam
+    jb label2  ;buyuk harfler icin label2, kucukler icin devam
     
     ;burda kucukleri buyuk yapmaliyiz:
     cmp al, 122   ;z
